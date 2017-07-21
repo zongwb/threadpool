@@ -1,0 +1,2 @@
+A minimalist thread pool implementation in C++14.
+It supports FIFO or priority-based ordering.
